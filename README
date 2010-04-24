@@ -1,0 +1,18 @@
+Resume
+==========================================================
+Derive all accentueted strings from one given string.
+
+Examples :
+==========================================================
+derive("éric") => "éric", "èric", "eric"
+derive("ée") => "ee", "eé", "eè", "ée", "éé", "éè", "èè", "èé", "èe"
+derive("pâturege") => "paturage", "pâturage"
+
+Usages
+==========================================================
+Can be used for search function on web sites for searching with independent-accentuation
+
+
+TODO
+====
+
